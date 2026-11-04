@@ -1,3 +1,12 @@
+**This repository is no longer maintained.** Development continues in the Nice UI monorepo.
+
+- New location: https://github.com/niceprototypes/nice-ux/tree/main/packages/button
+- New npm package: `@niceprototypes/button`
+
+---
+
+# Legacy documentation
+
 # nice-react-button
 ![Button](docs/button.png)
 
